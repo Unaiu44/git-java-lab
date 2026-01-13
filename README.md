@@ -53,7 +53,7 @@ git checkout -b my-solo-test
 > **Note:** The command `git checkout -b name` is a shortcut that does two things at once:
 > 1. `git branch my-solo-test` (Creates the branch)
 <p align="center">
-  <img src="images/GIT_BranchTest.png" width="50%">
+  <img src="images/GIT_Branch.png" width="50%">
 </p>
 
 > 2. `git checkout my-solo-test` (Switches/moves your terminal to that branch)
